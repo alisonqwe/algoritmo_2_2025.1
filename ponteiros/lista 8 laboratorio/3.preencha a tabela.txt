@@ -1,0 +1,15 @@
+Preencha as tabelas:
+Estado inicial:
+Endereço                              Variável                               Conteúdo
+#1000                                Int numero                               50                      
+
+#1004                               Int *ponteiro                             #1000         
+
+
+Estado após *ponteiro = 100:
+
+
+Endereço                              Variável                               Conteúdo
+#1000                                Int numero                                 100                          
+
+#1004                                Int *ponteiro                             #1000                      
