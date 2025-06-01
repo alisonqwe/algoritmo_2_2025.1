@@ -1,0 +1,12 @@
+ptr1 = endereço de a
+*ptr1 = *ptr1 +b
+a = 10 + 20
+*ptr2 = *30;
+*ptr2 = 30 
+ptr1 = ptr2;
+ptr1 = 30
+*ptr1 = a + *ptr1;
+a = 30 +30
+printf("a = %d, b = %d\n", a, b);
+a vai ser 60 e b vai dar erro porque não está apontando pra nada
+

@@ -1,0 +1,12 @@
+p = endereço de a
+a = 20
+p1 = endereço de p
+b = 50
+
+a = b +(*p)
+a = 50 + 20
+b =(**p1)+a
+b = 70 + 70
+
+printf("a= %d e b= %d",a,b)
+printf("a= 70 e b = 140")
