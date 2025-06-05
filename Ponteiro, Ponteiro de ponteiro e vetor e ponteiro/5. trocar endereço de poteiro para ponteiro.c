@@ -3,12 +3,13 @@
 
 
 
-void trocar_endereço(int *A, int *B){
+void trocar_endereço(int **A, int **B){
 
     int *temp;
-    temp = A;
+    temp = *A;
     *A = *B;
     *B = temp;
+    printf("%p\n",temp);
 }
 
 
