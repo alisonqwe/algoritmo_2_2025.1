@@ -10,17 +10,16 @@ void preencher_vetor(float notas[])
     }
 }
 
-void verificar_notas(float notas[])
+void verificar_notas(float *notas)
 {
-   float *ptr_nota;
-    ptr_nota = notas;
+  
     for (int i = 0; i < 5; i++)
     {
-        if (*ptr_nota < 6)
+        if (*notas< 6)
         {
-            *ptr_nota = 6;
+            *notas = 6;
         }
-        ptr_nota++;
+        notas++;
     }
 }
 
