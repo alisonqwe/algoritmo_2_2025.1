@@ -1,0 +1,101 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.7">
+  <diagram name="Página-1" id="D52kSZr3xVa_gs_mKsXK">
+    <mxGraphModel dx="1665" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-2" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;ESTUDANTE&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="70" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-3" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;INSCRIÇÃO&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="413" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-4" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;FOMENTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="655" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-5" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;CATEGORIA&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="390" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-6" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;NOTIFICAÇÃO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="310" y="330" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-7" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;DEPARTAMENTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="180" y="320" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-8" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;PROFESSOR&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="530" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-9" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;COORDENADOR&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="190" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="_TVovOgbhSE07AAf_tOQ-10" target="_TVovOgbhSE07AAf_tOQ-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-10" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;ORIENTADOR&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="430" y="500" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-11" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;SUPERVISOR&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="760" y="435" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-12" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;BOLSA&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="770" y="160" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-13" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;PGAMENTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-14" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;NIVEL&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="200" y="640" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-15" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;DEPARTAMENTO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="710" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-16" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;NIVEL&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="555" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-17" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;CAMPUS&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="370" y="610" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-18" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;CURSO&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="80" y="580" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-19" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;realiza&lt;/font&gt;&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="220" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-20" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;vinculada&lt;/font&gt;&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="580" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-21" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;possiu&lt;/font&gt;&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="760" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-22" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="725" y="415" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-23" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;d&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="425" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-29" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;abrigra&lt;/font&gt;&lt;/font&gt;" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="360" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-34" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="170" y="175" width="50" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-35" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="340" y="170" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-36" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="515" y="170" width="65" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_TVovOgbhSE07AAf_tOQ-37" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;" parent="1" vertex="1">
+          <mxGeometry x="700" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SupTvvuPcFwEoXThcjxU-1" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_TVovOgbhSE07AAf_tOQ-21" target="_TVovOgbhSE07AAf_tOQ-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="240" as="sourcePoint" />
+            <mxPoint x="910" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
